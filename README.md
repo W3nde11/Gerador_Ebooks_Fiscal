@@ -82,3 +82,5 @@ A planilha deve ter uma linha de cabeçalho. O leitor aceita variações com ou 
 - `Calendário fiscal` opcional
 
 Para listas, use quebras de linha ou `;`. No calendário fiscal, use o formato `Obrigação|Data/prazo|Responsável`, separando vários itens por `;`.
+
+link: https://drive.google.com/file/d/1M_UyEr7idrJvPm29heHlBRA8aLmuybnR/view?usp=drive_link
